@@ -1,0 +1,11 @@
+{
+  "name": "only-integer",
+  "version": "1.0.1",
+  "description": "Finds only integers in jaascript code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaik",
+  "license": "ISC"
+}
